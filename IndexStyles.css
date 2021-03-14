@@ -5,14 +5,18 @@ body {
 
 .navbar {
     background-color: aliceblue;
-    text-transform: uppercase;
     color: black;
     
 }
 
 .main-big-text {
+    text-transform: uppercase;
     text-align: center;
     size: 25px;
+}
+
+.occhiello {
+    text-align: center;
 }
 
 .Linking-anchor {
@@ -25,5 +29,6 @@ body {
 }
 
 .lower-links {
+    text-transform: uppercase;
     flex: content;
 }
