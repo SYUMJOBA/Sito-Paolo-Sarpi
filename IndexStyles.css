@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.navbar {
+    background-color: aliceblue;
+    text-transform: uppercase;
+    color: black;
+    
+}
+
+.main-big-text {
+    text-align: center;
+    size: 25px;
+}
+
+.Linking-anchor {
+    text-decoration: none;
+    color: black;
+}
+
+.Linking-anchor:hover {
+    color: gray;
+}
+
+.lower-links {
+    flex: content;
+}
